@@ -13,7 +13,7 @@
         Free to Start &middot; Launch in 60 seconds
       </div>
       <h1 class="hero-title">Ecommerce Platform for <em>Solopreneurs</em></h1>
-      <p class="hero-sub">Get a free online store filled with products people actually buy. We handle the marketing &mdash; you earn from every sale.</p>
+      <p class="hero-sub">Get a free online store filled with products people actually buy. We handle the marketing &mdash; you keep your margin on each sale.</p>
       <div class="hero-actions">
         <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn liquid-btn-warm">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
       </div>
@@ -59,8 +59,8 @@
       <div class="video-play" role="button" style="display:none" aria-label="Play video">
         <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
       </div>
-      <h2 class="video-title reveal">Real people. Real stores.<br>Real income.</h2>
-      <p class="video-sub reveal">Watch how Sarah went from zero business experience to earning $2,300/month from her kitchen table — in under 60 days.</p>
+      <h2 class="video-title reveal">Real people. Real stores.<br>Real sales.</h2>
+      <p class="video-sub reveal">Watch how Sarah went from zero business experience to $2,300/month in sales from her kitchen table — in under 60 days.</p>
       <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn liquid-btn-warm reveal">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
       <div class="video-trust reveal">
         <span style="display:none"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg> 2 min watch</span>
@@ -81,7 +81,7 @@
     <div class="steps-grid">
       <div class="step-card step-1 reveal reveal-delay-1"><div class="step-number">1</div><h3>We Create Your Store</h3><p>Sign up for free and get a fully built online store — designed, optimized, and ready to go. Works on any phone or computer.</p></div>
       <div class="step-card step-2 reveal reveal-delay-2"><div class="step-number">2</div><h3>We Fill It With Products</h3><p>Your store comes loaded with digital products people actually need — from career tools to money-saving kits. Prices from $7 to $999+.</p></div>
-      <div class="step-card step-3 reveal reveal-delay-3"><div class="step-number">3</div><h3>We Bring Customers</h3><p>Our marketing team runs ads that drive real buyers to your store. You earn from every sale — we handle the rest.</p></div>
+      <div class="step-card step-3 reveal reveal-delay-3"><div class="step-number">3</div><h3>We Bring Customers</h3><p>Our marketing team runs ads that put your store in front of real buyers. You keep your share of each sale — we handle the rest.</p></div>
     </div>
   </div>
 </section>
@@ -138,7 +138,7 @@
           <div class="pv-float-card pv-fc-1">
             <div class="pv-float-card-top"><span class="pv-float-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span><span class="pv-float-card-badge">↑ 18%</span></div>
             <div class="pv-float-card-val" id="pv-revenue">$2,340</div>
-            <div class="pv-float-card-label">Monthly revenue</div>
+            <div class="pv-float-card-label">Catalog value</div>
           </div>
           <div class="pv-float-card pv-fc-2">
             <div class="pv-float-card-top"><span class="pv-float-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span><span class="pv-float-card-badge">Top rated</span></div>
@@ -187,7 +187,7 @@
         <div class="pillar-num">02</div>
         <div class="pillar-label">Products That Sell</div>
         <h2>500,000+ products<br>people search for.</h2>
-        <p class="pillar-desc">No need to invent products or test ideas. Your store comes pre-loaded with digital tools that solve real problems — from $7 starter kits to $999+ premium suites. You earn 60–70% from every single sale.</p>
+        <p class="pillar-desc">No need to invent products or test ideas. Your store comes pre-loaded with digital tools that solve real problems — from $7 starter kits to $999+ premium suites. You keep 60–70% of each sale.</p>
         <ul class="pillar-features">
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>10 categories: Pets, Health, Career, Legal & more</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Digital delivery — no shipping, no inventory</li>
@@ -224,7 +224,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_017.webp" alt=""></div>
                   <div class="ps-card-cat">Pets</div>
                   <div class="ps-card-name">New Puppy 90-Day Plan</div>
-                  <div class="ps-card-price">$9</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$6</span></div>
+                  <div class="ps-card-price">$9</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$6</span></div>
 
                 </div>
               </div>
@@ -236,7 +236,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_019.webp" alt=""></div>
                   <div class="ps-card-cat">Money Rescue</div>
                   <div class="ps-card-name">Medical Bill Error Finder</div>
-                  <div class="ps-card-price">$49</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$32</span></div>
+                  <div class="ps-card-price">$49</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$32</span></div>
 
                 </div>
               </div>
@@ -248,7 +248,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_021.webp" alt=""></div>
                   <div class="ps-card-cat">Career</div>
                   <div class="ps-card-name">Career Reboot System</div>
-                  <div class="ps-card-price">$59</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$38</span></div>
+                  <div class="ps-card-price">$59</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$38</span></div>
 
                 </div>
               </div>
@@ -260,7 +260,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_023.webp" alt=""></div>
                   <div class="ps-card-cat">Your Rights</div>
                   <div class="ps-card-name">Legal Protection Suite</div>
-                  <div class="ps-card-price">$499</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$325</span></div>
+                  <div class="ps-card-price">$499</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$325</span></div>
 
                 </div>
               </div>
@@ -272,7 +272,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_025.webp" alt=""></div>
                   <div class="ps-card-cat">Health</div>
                   <div class="ps-card-name">Sleep Improvement System</div>
-                  <div class="ps-card-price">$29</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$19</span></div>
+                  <div class="ps-card-price">$29</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$19</span></div>
 
                 </div>
               </div>
@@ -284,7 +284,7 @@
                   <div class="ps-card-emoji"><img src="<?php em_theme_url(); ?>/pages/home/images/img_027.webp" alt=""></div>
                   <div class="ps-card-cat">Family</div>
                   <div class="ps-card-name">Picky Eater Planner</div>
-                  <div class="ps-card-price">$12</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$8</span></div>
+                  <div class="ps-card-price">$12</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">Your margin</span><span class="ps-earn-val">$8</span></div>
 
                 </div>
               </div>
@@ -302,8 +302,8 @@
       <div class="pillar-text reveal">
         <div class="pillar-num">03</div>
         <div class="pillar-label">We Bring Customers</div>
-        <h2>Done-for-you marketing.<br>Real buyers delivered.</h2>
-        <p class="pillar-desc">This is what makes Ecomzy different from everything else. We don't just give you a store — our team runs professional ad campaigns on Google and Meta that drive real, ready-to-buy customers to your door.</p>
+        <h2>Done-for-you marketing.<br>Managed end to end.</h2>
+        <p class="pillar-desc">This is what makes Ecomzy different from everything else. We don't just give you a store — our team runs professional ad campaigns on Google and Meta that show your store to ready-to-buy customers.</p>
         <ul class="pillar-features">
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Professional ads on Google, Facebook & Instagram</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Real-time performance dashboards</li>
@@ -334,7 +334,7 @@
             </div>
             <div class="mn-lane mn-lane-2">
               <div class="mn-lane-track mn-scroll-right">
-                <div class="mn-stat-card mn-stat-green"><span class="mn-stat-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></span><span class="mn-stat-num" data-base="12847" data-step="25" data-prefix="$" data-div="1">$12,847</span><span class="mn-stat-lbl">Revenue</span></div>
+                <div class="mn-stat-card mn-stat-green"><span class="mn-stat-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></span><span class="mn-stat-num" data-base="12847" data-step="25" data-prefix="$" data-div="1">$12,847</span><span class="mn-stat-lbl">Sales</span></div>
                 <div class="mn-avatar"><img src="<?php em_theme_url(); ?>/pages/home/images/img_034.webp" alt=""></div>
                 <div class="mn-avatar"><img src="<?php em_theme_url(); ?>/pages/home/images/img_035.webp" alt=""></div>
                 <div class="mn-stat-card"><span class="mn-stat-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="14" width="4" height="8" rx="1" fill="#5eead4" stroke="none"/><rect x="10" y="8" width="4" height="14" rx="1" fill="#5eead4" stroke="none"/><rect x="18" y="4" width="4" height="18" rx="1" fill="#5eead4" stroke="none"/></svg></span><span class="mn-stat-num" data-base="32" data-step="0" data-bounce="1" data-suffix="%" data-div="10">3.2%</span><span class="mn-stat-lbl">CTR</span></div>
@@ -453,7 +453,7 @@
     <div class="math-content reveal">
       <div class="section-label" style="color:var(--teal-bright);justify-content:center">The Math</div>
       <h2 class="section-title">Simple economics. Real numbers.</h2>
-      <p class="section-sub">Average product price of $40. You keep about 65% of every sale. Drag the slider and watch your income grow.</p>
+      <p class="section-sub">Average product price of $40. You keep about 65% of each sale. Drag the slider to see the numbers.</p>
     </div>
     <div class="math-layout">
       <div class="math-globe-col">
@@ -478,8 +478,8 @@
       </div>
       <div class="math-calc reveal">
         <div class="math-calc-header">
-          <h3>Your Earnings Calculator</h3>
-          <p>Move the slider to see your potential income</p>
+          <h3>Your Margin Calculator</h3>
+          <p>Move the slider to see how the math works</p>
         </div>
         <div class="math-slider-wrap">
           <div class="math-slider-label">
@@ -490,7 +490,7 @@
         </div>
         <div class="math-results">
           <div class="math-res-card">
-            <div class="math-res-label">Daily Revenue</div>
+            <div class="math-res-label">Daily Sales</div>
             <div class="math-res-value" id="mathRevDay">$200</div>
           </div>
           <div class="math-res-card">
@@ -498,7 +498,7 @@
             <div class="math-res-value" id="mathEarnDay">$130</div>
           </div>
           <div class="math-res-card main">
-            <div class="math-res-label">Your Monthly Income</div>
+            <div class="math-res-label">Your Monthly Margin</div>
             <div class="math-res-value" id="mathEarnMonth">$3,900</div>
             <div class="math-res-note">Based on 30 days × <span id="mathOrdersNote">5</span> orders/day</div>
           </div>
@@ -532,12 +532,12 @@
       <div class="pm-benefit reveal reveal-delay-1">
         <div class="pm-benefit-icon pm-benefit-icon--crystal"><img src="<?php em_theme_url(); ?>/pages/home/images/img_050.webp" alt="" loading="lazy" decoding="async"/></div>
         <h4>Business Strategy</h4>
-        <p>Your manager helps you choose the right products, set the right prices, and build a plan that matches your income goals — whether that's $500 or $5,000 a month.</p>
+        <p>Your manager helps you choose the right products, set the right prices, and build a plan that matches your sales goals — whatever scale you're aiming for.</p>
       </div>
       <div class="pm-benefit reveal reveal-delay-2">
         <div class="pm-benefit-icon pm-benefit-icon--crystal"><img src="<?php em_theme_url(); ?>/pages/home/images/img_051.webp" alt="" loading="lazy" decoding="async"/></div>
         <h4>Growth Advice</h4>
-        <p>Weekly tips on how to increase your revenue, which products are trending, and what successful store owners in your niche are doing differently.</p>
+        <p>Weekly tips on how to grow your sales, which products are trending, and what successful store owners in your niche are doing differently.</p>
       </div>
       <div class="pm-benefit reveal reveal-delay-3">
         <div class="pm-benefit-icon pm-benefit-icon--crystal"><img src="<?php em_theme_url(); ?>/pages/home/images/img_052.webp" alt="" loading="lazy" decoding="async"/></div>
@@ -587,7 +587,7 @@
     <div class="trust-header reveal">
       <div class="section-label" style="justify-content:center">Trust & Security</div>
       <h2 class="section-title">Your trust is our foundation.</h2>
-      <p class="section-sub">We're a real company, with real people, registered in the United States. Everything we do is designed to earn and keep your confidence.</p>
+      <p class="section-sub">We're a real company, with real people, registered in the United States. Everything we do is designed to build and keep your confidence.</p>
     </div>
 
     <div class="trust-creds">
@@ -612,7 +612,7 @@
       <div class="trust-guarantee-shield"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
       <div class="trust-guarantee-text">
         <h4>30-Day Money-Back Guarantee</h4>
-        <p>Try any paid service risk-free. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked, no hoops to jump through. We're that confident you'll love it.</p>
+        <p>Try any paid service with no pressure. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked, no hoops to jump through. We're that confident you'll love it.</p>
       </div>
     </div>
 

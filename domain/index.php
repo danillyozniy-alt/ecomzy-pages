@@ -16,7 +16,7 @@
       <div class="hero-content">
         <div class="hero-badge"><span class="dot"></span> Custom Domain</div>
         <h1>Your business starts with <em>a great domain</em></h1>
-        <p class="hero-sub">Claim your free store and pick a memorable domain that builds your brand, boosts traffic, and establishes instant credibility from day one.</p>
+        <p class="hero-sub">Claim your free store and pick a memorable domain that builds your brand, makes you easier to find, and gives customers a professional first impression.</p>
         <div class="hero-actions">
           <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
         </div>
@@ -28,14 +28,14 @@
           <div class="hv-photo-col"><div class="hv-photo-frame"><img src="<?php em_theme_url(); ?>/pages/domain/images/hero-person.webp" alt="Entrepreneur choosing a premium domain" class="hv-photo"><div class="hv-photo-glow"></div></div></div>
           <div class="hv-dash-col"><div class="hv-dash"><div class="hv-dash-shimmer"></div>
             <div class="hv-dash-header"><span class="hv-dash-logo">ecomzy<span>.</span></span><span class="hv-dash-status"><span class="hv-status-dot"></span> Domain</span></div>
-            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Brand</div><div class="hv-stat-value">10X</div><div class="hv-stat-change">Stronger</div></div><div class="hv-stat"><div class="hv-stat-label">Traffic</div><div class="hv-stat-value">+65%</div><div class="hv-stat-change">More visits</div></div></div>
+            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Brand</div><div class="hv-stat-value">Yours</div><div class="hv-stat-change">Consistent</div></div><div class="hv-stat"><div class="hv-stat-label">Traffic</div><div class="hv-stat-value">Direct</div><div class="hv-stat-change">Brand visits</div></div></div>
             <div class="hv-dash-chart"><svg viewBox="0 0 200 50" preserveAspectRatio="none" class="hv-chart-svg"><defs><linearGradient id="hvc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(20,184,166,.2)"/><stop offset="100%" stop-color="rgba(20,184,166,0)"/></linearGradient></defs><path d="M0,40 Q30,36 60,30 T120,20 T160,14 T200,8 V50 H0Z" fill="url(#hvc)"/><path d="M0,40 Q30,36 60,30 T120,20 T160,14 T200,8" fill="none" stroke="#14B8A6" stroke-width="2"/><circle cx="200" cy="8" r="3" fill="#14B8A6"/></svg></div>
             <div class="hv-dash-orders"><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">yourstore.com</span><span class="hv-order-amount">Active</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">SSL certificate</span><span class="hv-order-amount">Secured</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">DNS configured</span><span class="hv-order-amount">Live</span></div></div>
           </div></div>
         </div>
         <div class="hv-float hv-float-1"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/></svg></div><div><div class="hv-float-title">Premium domain</div><div class="hv-float-sub">Professional brand</div></div></div>
         <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div><div><div class="hv-float-title">SSL secured</div><div class="hv-float-sub" style="color:#4ade80">HTTPS enabled</div></div></div>
-        <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">5X credibility</div><div class="hv-float-sub">Brand trust boost</div></div></div>
+        <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">Professional look</div><div class="hv-float-sub">Recognizable and clear</div></div></div>
       </div>
     </div>
   </div>
@@ -47,18 +47,18 @@
     <div class="benefits-grid">
       <div class="benefit-card reveal">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/></svg></div>
-        <h3>10X stronger brand</h3>
+        <h3>A brand people remember</h3>
         <p>A quality domain makes your business recognizable and tells customers exactly what you do.</p>
       </div>
       <div class="benefit-card reveal rd2">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
-        <h3>Up to 65% more traffic</h3>
-        <p>A clean, relevant domain helps people find you easily and improves your search engine rankings.</p>
+        <h3>Better discoverability</h3>
+        <p>A clean, relevant domain helps people find you easily and supports your search engine visibility.</p>
       </div>
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
-        <h3>5X higher credibility</h3>
-        <p>A professional domain name instantly makes your store look organized, reputable, and trustworthy.</p>
+        <h3>Stronger credibility</h3>
+        <p>A professional domain name makes your store look organized, reputable, and trustworthy.</p>
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@
       </div>
       <div class="feature-card reveal rd2">
         <div class="feature-img"><img src="<?php em_theme_url(); ?>/pages/domain/images/benefit-3.webp" alt="" loading="lazy"></div>
-        <div class="feature-content"><h3>5-star store branding</h3><p>Your store&rsquo;s look and feel match your chosen domain, creating a seamless brand experience.</p></div>
+        <div class="feature-content"><h3>Consistent store branding</h3><p>Your store&rsquo;s look and feel match your chosen domain, creating a seamless brand experience.</p></div>
       </div>
     </div>
     <div class="features-controls">

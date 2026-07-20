@@ -16,7 +16,7 @@
       <div class="hero-content">
         <div class="hero-badge"><span class="dot"></span> Amazon Business</div>
         <h1>Launch on Amazon: the world&rsquo;s <em>#1 marketplace</em></h1>
-        <p class="hero-sub">Get the essential kit to create a professional seller account and start generating sales on Amazon in minutes, not months.</p>
+        <p class="hero-sub">Get the essential kit to create a professional seller account and get your first listings live on Amazon in minutes, not months.</p>
         <div class="hero-actions">
           <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
         </div>
@@ -76,7 +76,7 @@
         </div>
         <div class="hv-float hv-float-3">
           <div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div>
-          <div><div class="hv-float-title">Sales up 34%</div><div class="hv-float-sub">vs last month</div></div>
+          <div><div class="hv-float-title">34 listings live</div><div class="hv-float-sub">Ready to sell</div></div>
         </div>
       </div>
     </div>
@@ -95,12 +95,12 @@
       <div class="benefit-card reveal rd2">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
         <h3>Ready-to-sell products</h3>
-        <p>Start with a curated list of proven, high-demand products. No need to spend weeks researching what sells &ndash; just upload and start earning.</p>
+        <p>Start with a curated list of proven, high-demand products. No need to spend weeks researching what sells &ndash; just upload and start selling.</p>
       </div>
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
         <h3>Strategic advantage</h3>
-        <p>Gain a head start with insights and tools designed for Amazon&rsquo;s algorithms, helping your products get seen by millions of ready-to-buy shoppers.</p>
+        <p>Gain a head start with insights and tools designed for Amazon&rsquo;s algorithms, helping your products get seen by a wide audience of ready-to-buy shoppers.</p>
       </div>
     </div>
   </div>
@@ -112,13 +112,13 @@
     <div class="features-header reveal">
       <div class="section-label">What's included</div>
       <h2 class="section-title">Your complete Amazon <em>launch toolkit</em></h2>
-      <p class="section-sub">This package is more than a guide; it&rsquo;s a suite of tools designed to turn your store into a thriving Amazon business from day one.</p>
+      <p class="section-sub">This package is more than a guide; it&rsquo;s a suite of tools designed to help you set up and run your Amazon business from day one.</p>
     </div>
     <div class="features-slider">
     <div class="features-track">
       <div class="feature-card reveal">
         <div class="feature-img"><img src="<?php em_theme_url(); ?>/pages/amazon-business/images/benefit-1.webp" alt="" loading="lazy"></div>
-        <div class="feature-content"><h3>Pre-built product feed</h3><p>Save hours with ready-to-import product listings. Titles, descriptions, and keywords that drive sales.</p></div>
+        <div class="feature-content"><h3>Pre-built product feed</h3><p>Save hours with ready-to-import product listings. Titles, descriptions, and keywords written for Amazon search.</p></div>
       </div>
       <div class="feature-card reveal rd1">
         <div class="feature-img"><img src="<?php em_theme_url(); ?>/pages/amazon-business/images/benefit-2.webp" alt="" loading="lazy"></div>

@@ -10,7 +10,7 @@
       <div>
         <div class="hero-badge"><span class="dot"></span> Free to Start · Launch in 60 seconds</div>
         <h1>Launch Your Solo<br>Business Today —<br><em>For Free</em></h1>
-        <p class="hero-sub">Get a ready-made online store loaded with products people actually buy. We handle the marketing. You collect the profit.</p>
+        <p class="hero-sub">Get a ready-made online store loaded with products people actually buy. We handle the marketing. You keep your margin.</p>
         <div class="hero-actions">
           <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
           <a href="#how" class="btn-ghost">See How It Works</a>
@@ -139,7 +139,7 @@
           <div class="sl-float" style="position:absolute;top:8%;left:-40px;z-index:5;background:#1a1e23;border:1px solid rgba(255,255,255,.08);border-radius:16px;padding:14px 18px;box-shadow:0 12px 40px rgba(0,0,0,.25);animation:floatCard 5s ease-in-out infinite">
             <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px"><span style="width:24px;height:24px;background:rgba(20,184,166,.15);border-radius:6px;display:flex;align-items:center;justify-content:center"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span><span style="font-size:10px;font-weight:700;color:#5eead4">↑ 18%</span></div>
             <div style="font-family:var(--font-display);font-size:24px;font-weight:800;color:#fff">$4,340</div>
-            <div style="font-size:10px;color:rgba(255,255,255,.4)">Monthly revenue</div>
+            <div style="font-size:10px;color:rgba(255,255,255,.4)">Catalog value</div>
           </div>
           <div class="sl-float" style="position:absolute;bottom:8%;left:-40px;z-index:5;background:#1a1e23;border:1px solid rgba(255,255,255,.08);border-radius:16px;padding:14px 18px;box-shadow:0 12px 40px rgba(0,0,0,.25);animation:floatCard 5s ease-in-out 1.5s infinite">
             <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px"><span style="width:24px;height:24px;background:rgba(20,184,166,.15);border-radius:6px;display:flex;align-items:center;justify-content:center"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#14b8a6" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></span><span style="font-size:10px;font-weight:700;color:#14b8a6">Weekly</span></div>
@@ -268,7 +268,7 @@
         <ul class="pillar-features">
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Store live in 60 seconds</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Everything set up automatically</li>
-          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Sales from Day One</li>
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Ready to sell from Day One</li>
         </ul>
         <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary">Start Now — It's Free <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
       </div>
@@ -294,9 +294,9 @@
             <div class="how-step-row">
               <div class="how-step-num">3</div>
               <div class="how-step-body">
-                <div class="how-step-title">Start Earning</div>
-                <div class="how-step-desc">Sales come in. We handle fulfillment. Profits land in your bank account on full autopilot.</div>
-                <div class="how-step-pill"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg> Instant sales</div>
+                <div class="how-step-title">Start Selling</div>
+                <div class="how-step-desc">When sales come in, we handle fulfillment. Your margin lands in your bank account automatically.</div>
+                <div class="how-step-pill"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg> Instant delivery</div>
               </div>
             </div>
           </div>
@@ -318,7 +318,7 @@
         <ul class="pillar-features">
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>100+ products across 10 categories</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>$7–$999 price point — impulse-buy friendly</li>
-          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>You keep 60–70% of every sale</li>
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>You keep 60–70% of each sale</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>New products added every month</li>
         </ul>
         <div class="pillar-stat-row">
@@ -369,7 +369,7 @@
                   <div class="ps-card-cat">Career</div>
                   <div class="ps-card-name">Resume Factory Pro</div>
                   <div class="ps-card-desc">AI-powered resume builder that lands interviews</div>
-                  <div class="ps-card-price">$59</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$38</span></div>
+                  <div class="ps-card-price">$59</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$38</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.9</span></div>
                 </div>
               </div>
@@ -384,7 +384,7 @@
                   <div class="ps-card-cat">Family & Pets</div>
                   <div class="ps-card-name">New Puppy Starter Plan</div>
                   <div class="ps-card-desc">Complete 90-day training & care guide</div>
-                  <div class="ps-card-price">$9</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$6</span></div>
+                  <div class="ps-card-price">$9</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$6</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.8</span></div>
                 </div>
               </div>
@@ -399,7 +399,7 @@
                   <div class="ps-card-cat">Health & Medical</div>
                   <div class="ps-card-name">Medical Bill Error Finder</div>
                   <div class="ps-card-desc">Find overcharges & save thousands on bills</div>
-                  <div class="ps-card-price">$49</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$32</span></div>
+                  <div class="ps-card-price">$49</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$32</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.9</span></div>
                 </div>
               </div>
@@ -414,7 +414,7 @@
                   <div class="ps-card-cat">Legal & Finance</div>
                   <div class="ps-card-name">Legal Protection Suite</div>
                   <div class="ps-card-desc">Essential legal templates & guides for life</div>
-                  <div class="ps-card-price">$499</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$325</span></div>
+                  <div class="ps-card-price">$499</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$325</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.7</span></div>
                 </div>
               </div>
@@ -429,7 +429,7 @@
                   <div class="ps-card-cat">Education</div>
                   <div class="ps-card-name">Study Success System</div>
                   <div class="ps-card-desc">Proven study methods for better grades</div>
-                  <div class="ps-card-price">$7</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$5</span></div>
+                  <div class="ps-card-price">$7</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$5</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.8</span></div>
                 </div>
               </div>
@@ -444,7 +444,7 @@
                   <div class="ps-card-cat">Fitness</div>
                   <div class="ps-card-name">30-Day Body Reset</div>
                   <div class="ps-card-desc">Transform your body with daily workouts & meals</div>
-                  <div class="ps-card-price">$8</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You earn</span><span class="ps-earn-val">$5</span></div>
+                  <div class="ps-card-price">$8</div><div class="ps-card-earn"><span class="ps-earn-dot"></span><span class="ps-earn-label">You keep</span><span class="ps-earn-val">$5</span></div>
                   <div class="ps-card-stars">★★★★★ <span>4.9</span></div>
                 </div>
               </div>
@@ -589,7 +589,7 @@
         <div class="faq-item"><div class="faq-q">Do I need any technical skills?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">None at all. If you can fill out a form and click a button, you can run this business. We handle everything technical: the website, hosting, checkout, and product delivery.</div></div>
 
         <div class="faq-item"><div class="faq-q">What kind of products will I sell?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You sell AI-powered digital tools — resume builders, legal kits, health guides, family planners. Downloadable products customers use themselves. No physical goods, no inventory, no shipping.</div></div>
-        <div class="faq-item"><div class="faq-q">How much money can I make?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You keep 60–70% of every sale. Many store owners earn $3,000–$5,000+ per month once their store gains momentum. Results depend on your effort and audience.</div></div>
+        <div class="faq-item"><div class="faq-q">How much money can I make?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You keep 60–70% of each sale. We can't promise any particular result — what you make depends on your effort, your audience, and how you promote your store.</div></div>
       </div>
       <div class="faq-group reveal rd1">
         <div class="faq-item"><div class="faq-q">How long does it take to set up?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">Your store is live in under 60 seconds. You create an account, and your storefront — complete with products, checkout, and domain — is ready immediately.</div></div>
@@ -616,7 +616,7 @@
       </div>
       <div class="trust-item reveal rd2">
         <div class="trust-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
-        <div><div class="trust-label">Real Income</div><div class="trust-desc">Earn from every sale, paid out to your bank</div></div>
+        <div><div class="trust-label">Real Sales</div><div class="trust-desc">Get paid on each sale, direct to your bank</div></div>
       </div>
     </div>
   </div>
@@ -650,7 +650,7 @@
       <div class="trust-guarantee-shield"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
       <div class="trust-guarantee-text">
         <h4>30-Day Money-Back Guarantee</h4>
-        <p>Try any paid service risk-free. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked.</p>
+        <p>Try any paid service with no pressure. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked.</p>
       </div>
     </div>
     <div class="trust-divider reveal"><span>Secure Payments</span></div>

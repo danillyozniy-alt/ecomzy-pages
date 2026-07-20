@@ -53,7 +53,7 @@
               </div>
               <div class="hv-dash-stats">
                 <div class="hv-stat">
-                  <div class="hv-stat-label">Revenue</div>
+                  <div class="hv-stat-label">Catalog value</div>
                   <div class="hv-stat-value">$12,450</div>
                   <div class="hv-stat-change">+34%</div>
                 </div>
@@ -128,8 +128,8 @@
         <div class="benefit-icon">
           <svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg>
         </div>
-        <h3>Zero financial risk</h3>
-        <p>Start completely free, with no upfront costs. Build revenue first and reinvest your profits to scale smartly.</p>
+        <h3>Cancel anytime</h3>
+        <p>Start completely free, with no upfront costs. Build sales first and reinvest your margin to scale smartly.</p>
       </div>
 
       <div class="benefit-card reveal rd4">
@@ -150,7 +150,7 @@
     <div class="features-header reveal">
       <div class="section-label">What&rsquo;s included</div>
       <h2 class="section-title">What does this solopreneur-friendly<br><em>solution include<span class="em-punct">?</span></em></h2>
-      <p class="section-sub">Your high-class online store features everything you need to sell online and succeed. All with zero upfront cost and zero effort from your side.</p>
+      <p class="section-sub">Your high-class online store features everything you need to sell online and succeed. All with zero upfront cost and minimal effort from your side.</p>
     </div>
     <div class="features-slider">
     <div class="features-track">
@@ -161,7 +161,7 @@
         </div>
         <div class="feature-content">
           <h3>A turnkey ecommerce website</h3>
-          <p>Get a store built by professionals from start to finish, designed to generate sales from your very first day.</p>
+          <p>Get a store built by professionals from start to finish, ready to sell from your very first day.</p>
         </div>
       </div>
 
@@ -181,7 +181,7 @@
         </div>
         <div class="feature-content">
           <h3>Curated product catalog</h3>
-          <p>Sell digital products for pure profit. Instant sales, no shipping, no waiting &ndash; products are pre-loaded.</p>
+          <p>Sell digital products with a strong margin. Instant delivery, no shipping, no waiting &ndash; products are pre-loaded.</p>
         </div>
       </div>
 
@@ -191,7 +191,7 @@
         </div>
         <div class="feature-content">
           <h3>Built-in marketing tools</h3>
-          <p>Manage promotions and track performance from your dashboard with integrated, sales-driving solutions.</p>
+          <p>Manage promotions and track performance from your dashboard with integrated, easy-to-use solutions.</p>
         </div>
       </div>
 
@@ -264,7 +264,7 @@
         <ul class="pillar-features">
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Store live in 60 seconds</li>
           <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Everything set up automatically</li>
-          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Sales from Day One</li>
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Ready to sell from Day One</li>
         </ul>
         <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary">Start Now &mdash; It's Free <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
       </div>
@@ -290,9 +290,9 @@
             <div class="how-step-row">
               <div class="how-step-num">3</div>
               <div class="how-step-body">
-                <div class="how-step-title">Start Earning</div>
-                <div class="how-step-desc">Sales come in. We handle fulfillment. Profits land in your bank account on full autopilot.</div>
-                <div class="how-step-pill"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg> Instant sales</div>
+                <div class="how-step-title">Start Selling</div>
+                <div class="how-step-desc">When sales come in, we handle fulfillment. Your margin lands in your bank account automatically.</div>
+                <div class="how-step-pill"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg> Instant delivery</div>
               </div>
             </div>
           </div>
@@ -387,7 +387,7 @@
         <div class="faq-item"><div class="faq-q">Is Ecomzy really free?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">Yes. Your store, your products, and your personal manager support are all free. You only pay $39/month to keep your business operating &mdash; no upfront costs required to start.</div></div>
         <div class="faq-item"><div class="faq-q">Do I need any technical skills?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">None at all. If you can fill out a form and click a button, you can run this business. We handle everything technical: the website, hosting, checkout, and product delivery.</div></div>
         <div class="faq-item"><div class="faq-q">What kind of products will I sell?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You sell AI-powered digital tools &mdash; resume builders, legal kits, health guides, family planners. Downloadable products customers use themselves. No physical goods, no inventory, no shipping.</div></div>
-        <div class="faq-item"><div class="faq-q">How much money can I make?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You keep 60&ndash;70% of every sale. Many store owners earn $3,000&ndash;$5,000+ per month once their store gains momentum. Results depend on your effort and audience.</div></div>
+        <div class="faq-item"><div class="faq-q">How much money can I make?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">You keep 60&ndash;70% of each sale. We can't promise any particular result &mdash; what you make depends on your effort, your audience, and how you promote your store.</div></div>
       </div>
       <div class="faq-group reveal rd1">
         <div class="faq-item"><div class="faq-q">How long does it take to set up?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></div><div class="faq-a">Your store is live in under 60 seconds. You create an account, and your storefront &mdash; complete with products, checkout, and domain &mdash; is ready immediately.</div></div>
@@ -413,7 +413,7 @@
       </div>
       <div class="trust-item reveal rd2">
         <div class="trust-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
-        <div><div class="trust-label">Real Income</div><div class="trust-desc">Earn from every sale, paid out to your bank</div></div>
+        <div><div class="trust-label">Real Sales</div><div class="trust-desc">Get paid on each sale, direct to your bank</div></div>
       </div>
     </div>
   </div>
@@ -448,7 +448,7 @@
       <div class="trust-guarantee-shield"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
       <div class="trust-guarantee-text">
         <h4>30-Day Money-Back Guarantee</h4>
-        <p>Try any paid service risk-free. If you're not completely satisfied within 30 days, we'll refund every penny &mdash; no questions asked.</p>
+        <p>Try any paid service with no pressure. If you're not completely satisfied within 30 days, we'll refund every penny &mdash; no questions asked.</p>
       </div>
     </div>
     <div class="trust-divider reveal"><span>Secure Payments</span></div>

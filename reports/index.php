@@ -28,13 +28,13 @@
           <div class="hv-photo-col"><div class="hv-photo-frame"><img src="<?php em_theme_url(); ?>/pages/reports/images/hero-person.webp" alt="Entrepreneur analyzing store reports" class="hv-photo"><div class="hv-photo-glow"></div></div></div>
           <div class="hv-dash-col"><div class="hv-dash"><div class="hv-dash-shimmer"></div>
             <div class="hv-dash-header"><span class="hv-dash-logo">ecomzy<span>.</span></span><span class="hv-dash-status"><span class="hv-status-dot"></span> Reports</span></div>
-            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Revenue</div><div class="hv-stat-value">$8.2K</div><div class="hv-stat-change">Monthly</div></div><div class="hv-stat"><div class="hv-stat-label">Visitors</div><div class="hv-stat-value">12,450</div><div class="hv-stat-change">+34%</div></div></div>
+            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Sales</div><div class="hv-stat-value">$8.2K</div><div class="hv-stat-change">Monthly</div></div><div class="hv-stat"><div class="hv-stat-label">Visitors</div><div class="hv-stat-value">12,450</div><div class="hv-stat-change">+34%</div></div></div>
             <div class="hv-dash-chart"><svg viewBox="0 0 200 50" preserveAspectRatio="none" class="hv-chart-svg"><defs><linearGradient id="hvc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(20,184,166,.2)"/><stop offset="100%" stop-color="rgba(20,184,166,0)"/></linearGradient></defs><path d="M0,44 Q30,40 60,32 T120,22 T160,14 T200,8 V50 H0Z" fill="url(#hvc)"/><path d="M0,44 Q30,40 60,32 T120,22 T160,14 T200,8" fill="none" stroke="#14B8A6" stroke-width="2"/><circle cx="200" cy="8" r="3" fill="#14B8A6"/></svg></div>
             <div class="hv-dash-orders"><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">Sales tracking</span><span class="hv-order-amount">Real-time</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">Visitor analytics</span><span class="hv-order-amount">Live</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">Growth insights</span><span class="hv-order-amount">Weekly</span></div></div>
           </div></div>
         </div>
         <div class="hv-float hv-float-1"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div><div><div class="hv-float-title">Live dashboard</div><div class="hv-float-sub">Real-time data</div></div></div>
-        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">+34% growth</div><div class="hv-float-sub" style="color:#4ade80">This month</div></div></div>
+        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">Trend tracking</div><div class="hv-float-sub" style="color:#4ade80">Monthly view</div></div></div>
         <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div><div><div class="hv-float-title">Smart insights</div><div class="hv-float-sub">Actionable tips</div></div></div>
       </div>
     </div>
@@ -58,7 +58,7 @@
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
         <h3>Discover growth paths</h3>
-        <p>Get insights and tips directly in your dashboard to help you boost sales and improve results.</p>
+        <p>Get insights and tips directly in your dashboard to help you plan your next steps.</p>
       </div>
     </div>
   </div>

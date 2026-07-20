@@ -15,7 +15,7 @@
     <div class="hero-inner">
       <div class="hero-content">
         <div class="hero-badge"><span class="dot"></span> Paid Advertising</div>
-        <h1>Autopilot ads that grow <em>your store fast</em></h1>
+        <h1>Autopilot ads that promote <em>your store for you</em></h1>
         <p class="hero-sub">Activate your free store and have it promoted across five major platforms: Amazon, Google, Facebook, TikTok, and Instagram.</p>
         <div class="hero-actions">
           <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
@@ -28,13 +28,13 @@
           <div class="hv-photo-col"><div class="hv-photo-frame"><img src="<?php em_theme_url(); ?>/pages/paid-ads/images/hero-person.webp" alt="Marketer managing ad campaigns" class="hv-photo"><div class="hv-photo-glow"></div></div></div>
           <div class="hv-dash-col"><div class="hv-dash"><div class="hv-dash-shimmer"></div>
             <div class="hv-dash-header"><span class="hv-dash-logo">ecomzy<span>.</span></span><span class="hv-dash-status"><span class="hv-status-dot"></span> Ads</span></div>
-            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Platforms</div><div class="hv-stat-value">5</div><div class="hv-stat-change">Active</div></div><div class="hv-stat"><div class="hv-stat-label">ROAS</div><div class="hv-stat-value">340%</div><div class="hv-stat-change">Return</div></div></div>
+            <div class="hv-dash-stats"><div class="hv-stat"><div class="hv-stat-label">Platforms</div><div class="hv-stat-value">5</div><div class="hv-stat-change">Active</div></div><div class="hv-stat"><div class="hv-stat-label">Campaigns</div><div class="hv-stat-value">Live</div><div class="hv-stat-change">Automated</div></div></div>
             <div class="hv-dash-chart"><svg viewBox="0 0 200 50" preserveAspectRatio="none" class="hv-chart-svg"><defs><linearGradient id="hvc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(20,184,166,.2)"/><stop offset="100%" stop-color="rgba(20,184,166,0)"/></linearGradient></defs><path d="M0,44 Q30,40 60,32 T120,20 T160,12 T200,6 V50 H0Z" fill="url(#hvc)"/><path d="M0,44 Q30,40 60,32 T120,20 T160,12 T200,6" fill="none" stroke="#14B8A6" stroke-width="2"/><circle cx="200" cy="6" r="3" fill="#14B8A6"/></svg></div>
             <div class="hv-dash-orders"><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">Google Shopping ads</span><span class="hv-order-amount">Active</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">Facebook retargeting</span><span class="hv-order-amount">Active</span></div><div class="hv-order"><span class="hv-order-dot paid"></span><span class="hv-order-name">TikTok Spark Ads</span><span class="hv-order-amount">Active</span></div></div>
           </div></div>
         </div>
         <div class="hv-float hv-float-1"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div><div><div class="hv-float-title">Auto-targeting</div><div class="hv-float-sub">AI-optimized audience</div></div></div>
-        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div><div><div class="hv-float-title">$2,400 revenue</div><div class="hv-float-sub" style="color:#4ade80">From ads this week</div></div></div>
+        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div><div><div class="hv-float-title">Budget optimized</div><div class="hv-float-sub" style="color:#4ade80">Across all five platforms</div></div></div>
         <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div><div><div class="hv-float-title">Zero setup</div><div class="hv-float-sub">Fully automated</div></div></div>
       </div>
     </div>
@@ -53,12 +53,12 @@
       <div class="benefit-card reveal rd2">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
         <h3>Five giant platforms</h3>
-        <p>Your products appear across Amazon, Google, Facebook, Instagram, and TikTok &ndash; reaching billions of shoppers effortlessly.</p>
+        <p>Your products appear across Amazon, Google, Facebook, Instagram, and TikTok &ndash; reaching a wide audience of shoppers.</p>
       </div>
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
-        <h3>Built-in profit engine</h3>
-        <p>Every campaign targets ready-to-buy customers, turning your free store into a revenue machine running around the clock.</p>
+        <h3>Always-on promotion</h3>
+        <p>Each campaign targets ready-to-buy shoppers and keeps your free store in front of them around the clock.</p>
       </div>
     </div>
   </div>
@@ -69,8 +69,8 @@
   <div class="container">
     <div class="features-header reveal">
       <div class="section-label">What's included</div>
-      <h2 class="section-title">Smart automation working <em>behind every sale</em></h2>
-      <p class="section-sub">Our promotion engine handles targeting, placement, and optimization across all five advertising platforms &ndash; so you skip the learning curve and start seeing results immediately.</p>
+      <h2 class="section-title">Smart automation working <em>behind each sale</em></h2>
+      <p class="section-sub">Our promotion engine handles targeting, placement, and optimization across all five advertising platforms &ndash; so you skip the learning curve and start promoting your products right away.</p>
     </div>
     <div class="features-slider">
     <div class="features-track">
@@ -85,7 +85,7 @@
         <div class="feature-img"><img src="<?php em_theme_url(); ?>/pages/paid-ads/images/benefit-2.webp" alt="" loading="lazy"></div>
         <div class="feature-content">
           <h3>AI campaign optimization</h3>
-          <p>Ads adjust automatically based on what&rsquo;s converting, keeping your spend efficient and profits growing.</p>
+          <p>Ads adjust automatically based on what&rsquo;s converting, keeping your spend efficient.</p>
         </div>
       </div>
       <div class="feature-card reveal rd2">
@@ -110,7 +110,7 @@
       <div class="lp-cta-shimmer"></div>
       <div class="lp-cta-frost"></div>
       <h2 class="section-title">Your store is ready. <em>Ads included.</em></h2>
-      <p class="section-sub">Claim your free store now and let automated promotion start driving sales from day one.</p>
+      <p class="section-sub">Claim your free store now and let automated promotion get to work from day one.</p>
       <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
       <p class="lp-cta-note">Free 14-day trial &middot; No inventory &middot; No experience needed</p>
     </div>

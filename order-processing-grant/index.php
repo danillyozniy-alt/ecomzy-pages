@@ -703,7 +703,7 @@ body.bar-hidden #navbar{top:0 !important}
       <div class="how-step">
         <div class="how-num">1</div>
         <h3>Fulfill today&rsquo;s orders &rarr; enter the $1,000 draw</h3>
-        <p>Open your dashboard and process every pending order. Takes a few minutes. Customers get their products, you earn profit &mdash; and you&rsquo;re entered into today&rsquo;s $1,000 draw.</p>
+        <p>Open your dashboard and process every pending order. Takes a few minutes. Customers get their products, you keep your margin &mdash; and you&rsquo;re entered into today&rsquo;s $1,000 draw.</p>
       </div>
       <div class="how-step">
         <div class="how-num">2</div>
@@ -725,7 +725,7 @@ body.bar-hidden #navbar{top:0 !important}
       <div class="overline">Why it works</div>
       <h2>Every day is a <em>new chance.</em></h2>
     </div>
-    <p class="psych-body">Here&rsquo;s what makes this different from lottery tickets: <strong>you&rsquo;re not gambling &mdash; you&rsquo;re getting paid to grow your business.</strong> Every order you process earns you real profit AND enters you into a <strong>$1,000 draw.</strong> Miss a day? No penalty &mdash; just start a new streak on Monday. But if you show up seven days in a row, that <strong>$5,000 Jackpot</strong> could be yours.</p>
+    <p class="psych-body">Here&rsquo;s what makes this different: <strong>you&rsquo;re getting paid to grow your business.</strong> Each order you process brings in your margin AND enters you into a <strong>$1,000 draw.</strong> Miss a day? No penalty &mdash; just start a new streak on Monday. But if you show up seven days in a row, that <strong>$5,000 Jackpot</strong> could be yours.</p>
   </div>
 </section>
 

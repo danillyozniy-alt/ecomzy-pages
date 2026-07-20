@@ -62,7 +62,7 @@
       </div>
       <div class="wwd-card reveal rd2">
         <div class="wwd-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3.17 7.44L12 12.55l8.77-5.08"/><path d="M12 21.61v-9.07"/><path d="M9.93 2.48L4.59 5.45A3.38 3.38 0 002.39 9.18v5.65a3.38 3.38 0 002.2 3.73l5.34 2.97a3.41 3.41 0 003.15 0l5.34-2.97a3.38 3.38 0 002.2-3.73V9.18a3.38 3.38 0 00-2.2-3.73L13.08 2.48a3.43 3.43 0 00-3.15 0z"/></svg></div>
-        <p>Curated catalogs of digital products for instant, pure-profit sales</p>
+        <p>Curated catalogs of digital products for instant, high-margin sales</p>
       </div>
       <div class="wwd-card reveal rd3">
         <div class="wwd-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5.9 17h12.19c1.9 0 2.9-1 2.9-2.9V2H2.99v12.1c.01 1.9 1.01 2.9 2.91 2.9z"/><path d="M2 2h20"/><path d="M8 22l4-2v-3"/><path d="M16 22l-4-2"/><path d="M7.5 11l3.15-2.63c.25-.21.58-.15.75.13l1.2 2c.17.28.5.33.75.13L16.5 8"/></svg></div>
@@ -177,7 +177,7 @@
       <div class="trust-guarantee-shield"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10.49 2.23L5.5 4.11c-1.15.43-2.09 1.79-2.09 3.01v7.43c0 1.18.78 2.73 1.73 3.44l4.3 3.21c1.41 1.06 3.73 1.06 5.14 0l4.3-3.21c.95-.71 1.73-2.26 1.73-3.44V7.12c0-1.23-.94-2.59-2.09-3.02l-4.99-1.87c-.85-.31-2.21-.31-3.04 0z"/><path d="M9.05 11.87l1.61 1.61 4.3-4.3"/></svg></div>
       <div class="trust-guarantee-text">
         <h4>30-Day Money-Back Guarantee</h4>
-        <p>Try any paid service risk-free. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked, no hoops to jump through. We're that confident you'll love it.</p>
+        <p>Try any paid service and cancel anytime. If you're not completely satisfied within 30 days, we'll refund every penny — no questions asked, no hoops to jump through. We're that confident you'll love it.</p>
       </div>
     </div>
   </div>

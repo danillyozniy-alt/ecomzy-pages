@@ -16,7 +16,7 @@ $calendly_embed_url = get_option('em_calendly_url', 'https://calendly.com/d/ym8-
 <main class="cw-main">
   <div class="cw-container">
     <header class="cw-hero">
-      <h1 class="cw-title">Your pure-profit business starts here. Let us show you how to make <em>$10,000+/month</em>.</h1>
+      <h1 class="cw-title">Your online business starts here. Let us show you how it <em>all works</em>.</h1>
     </header>
 
     <section class="cw-calendar">

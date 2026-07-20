@@ -15,8 +15,8 @@
     <div class="hero-inner">
       <div class="hero-content">
         <div class="hero-badge"><span class="dot"></span> Order Processing</div>
-        <h1>Run your business on autopilot &ndash; <em>zero effort</em></h1>
-        <p class="hero-sub">Your free store unlocks automatic order processing. We fulfill every sale instantly while you sit back and enjoy the profits.</p>
+        <h1>Run your business on autopilot &ndash; <em>hassle-free</em></h1>
+        <p class="hero-sub">Your free store unlocks automatic order processing. We fulfill each sale instantly while you focus on growing your store.</p>
         <div class="hero-actions">
           <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary liquid-btn">Start Your Free Store <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 9h10M10 5l4 4-4 4"/></svg></a>
         </div>
@@ -35,7 +35,7 @@
         </div>
         <div class="hv-float hv-float-1"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div><div><div class="hv-float-title">100% automated</div><div class="hv-float-sub">Zero manual work</div></div></div>
         <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></div><div><div class="hv-float-title">Instant delivery</div><div class="hv-float-sub" style="color:#4ade80">1 sec average</div></div></div>
-        <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div><div><div class="hv-float-title">Pure profit</div><div class="hv-float-sub">You earn, we deliver</div></div></div>
+        <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div><div><div class="hv-float-title">Your margin</div><div class="hv-float-sub">You sell, we deliver</div></div></div>
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@
       <div class="benefit-card reveal">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg></div>
         <h3>100% hands-free operation</h3>
-        <p>Every order is processed automatically in real time. No clicks, no tracking, no stress &mdash; just sales.</p>
+        <p>Every order is processed automatically in real time. No clicks, no tracking, no stress &mdash; just smooth fulfillment.</p>
       </div>
       <div class="benefit-card reveal rd2">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
@@ -57,8 +57,8 @@
       </div>
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
-        <h3>Pure profit, no work</h3>
-        <p>You keep the money; we handle delivery. Your only job is watching your balance grow.</p>
+        <h3>Margin, minus the busywork</h3>
+        <p>You keep your share of each sale; we handle fulfillment. Your only job is running your store.</p>
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@
     <div class="features-header reveal">
       <div class="section-label">What's included</div>
       <h2 class="section-title">A fully automated fulfillment engine, <em>built-in</em></h2>
-      <p class="section-sub">Top-up order processing credits once, and every future sale is handled instantly. No manual work, no delays, no customer complaints &mdash; just smooth, automatic operations.</p>
+      <p class="section-sub">Top-up order processing credits once, and each future sale is handled instantly. No manual work, no delays &mdash; just steady, automatic operations.</p>
     </div>
     <div class="features-slider">
     <div class="features-track">
@@ -84,7 +84,7 @@
       </div>
       <div class="feature-card reveal rd2">
         <div class="feature-img"><img src="<?php em_theme_url(); ?>/pages/order-processing/images/benefit-3.webp" alt="" loading="lazy"></div>
-        <div class="feature-content"><h3>Guaranteed instant delivery</h3><p>Automated systems ensure every order is delivered within seconds, protecting your customer satisfaction scores.</p></div>
+        <div class="feature-content"><h3>Instant digital delivery</h3><p>Automated systems ensure every order is delivered within seconds, protecting your customer satisfaction scores.</p></div>
       </div>
     </div>
     <div class="features-controls">

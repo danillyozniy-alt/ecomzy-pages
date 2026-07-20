@@ -44,7 +44,7 @@
           </div>
         </div>
         <div class="hv-float hv-float-1"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div><div class="hv-float-title">Influencer live</div><div class="hv-float-sub">500K+ followers</div></div></div>
-        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">Campaign ROI</div><div class="hv-float-sub" style="color:#4ade80">340% return</div></div></div>
+        <div class="hv-float hv-float-2"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 17"/></svg></div><div><div class="hv-float-title">Content calendar</div><div class="hv-float-sub" style="color:#4ade80">Posts scheduled</div></div></div>
         <div class="hv-float hv-float-3"><div class="hv-float-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></div><div><div class="hv-float-title">3 platforms</div><div class="hv-float-sub">Active campaigns</div></div></div>
       </div>
     </div>
@@ -57,18 +57,18 @@
     <div class="benefits-grid">
       <div class="benefit-card reveal">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg></div>
-        <h3>Viral growth engine</h3>
-        <p>Launch influencer campaigns instantly to reach millions on TikTok, Instagram, and Pinterest for rapid, credible brand exposure.</p>
+        <h3>Social reach engine</h3>
+        <p>Launch influencer campaigns instantly to reach a wide audience on TikTok, Instagram, and Pinterest for credible brand exposure.</p>
       </div>
       <div class="benefit-card reveal rd2">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
         <h3>Expert campaign execution</h3>
-        <p>Drive sales with managed promotions and targeted ads crafted by social media specialists for maximum impact.</p>
+        <p>Get managed promotions and targeted ads crafted by specialists who work with these platforms every day.</p>
       </div>
       <div class="benefit-card reveal rd4">
         <div class="benefit-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></div>
-        <h3>Measurable sales impact</h3>
-        <p>Achieve tangible results with services designed to increase engagement, traffic, and conversions directly from social platforms.</p>
+        <h3>Measurable campaign data</h3>
+        <p>Track engagement, traffic, and conversions from social platforms so you can see what each campaign actually did.</p>
       </div>
     </div>
   </div>
@@ -80,7 +80,7 @@
     <div class="features-header reveal">
       <div class="section-label">What's included</div>
       <h2 class="section-title">A full suite of <em>social media services</em></h2>
-      <p class="section-sub">Access targeted influencer promotions, viral content strategies, and ad management designed to build your brand and drive sales.</p>
+      <p class="section-sub">Access targeted influencer promotions, trend-driven content strategies, and ad management designed to put your brand in front of shoppers.</p>
     </div>
     <div class="features-slider">
     <div class="features-track">

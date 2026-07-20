@@ -89,7 +89,7 @@ $current_cat = em_is_category();
       <div class="blog-cta-shimmer"></div>
       <div class="blog-cta-frost"></div>
       <h2 class="blog-cta-title">Launch your hassle-free solopreneur business today</h2>
-      <p class="blog-cta-desc">With Ecomzy, you get a free online store loaded with products, marketing tools, and personal support to start earning.</p>
+      <p class="blog-cta-desc">With Ecomzy, you get a free online store loaded with products, marketing tools, and personal support to start selling.</p>
       <a href="<?php echo em_start_for_free_url(); ?>" class="btn-primary">Get Started For Free <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
     </div>
   </div>
