@@ -1,0 +1,450 @@
+/* ========================= CHECKOUT PAGE ========================= */
+
+/* Body override */
+.page-checkout {
+  font-family:Arial,Helvetica,sans-serif;
+}
+
+/* Hide nav & footer on checkout */
+.page-checkout #navbar,
+.page-checkout footer {
+  display:none;
+}
+
+/* Override dark theme base styles */
+#checkout .container {
+  padding:0;
+}
+@media (max-width:1290px) {
+  #checkout .container {
+    padding-right:15px;
+    padding-left:15px;
+  }
+}
+@media (max-width:768px) {
+  #checkout .container {
+    padding-left:16px;
+    padding-right:16px;
+  }
+}
+#checkout input[type="text"],
+#checkout input[type="email"],
+#checkout input[type="tel"] {
+  background-color:#FFF;
+  color:#636363;
+  border:1px solid #B5B5B5;
+  border-radius:11px;
+  padding:19px 35px;
+  font-size:19px;
+  line-height:28px;
+  width:100%;
+  box-sizing:border-box;
+  font-family:Arial,Helvetica,sans-serif;
+}
+#checkout input::placeholder {
+  color:#C4C4C4;
+  font-family:Arial,Helvetica,sans-serif;
+}
+#checkout input:focus {
+  border-color:#313131;
+  outline:none;
+}
+#checkout .btn {
+  font-family:'Open Sans Bold',Helvetica,Arial,sans-serif;
+  display:inline-block;
+  position:relative;
+  padding:20px 75px;
+  border-radius:42px;
+  font-weight:700;
+  cursor:pointer;
+  transition:padding .3s;
+  border:none;
+  font-size:18px;
+  line-height:25px;
+  text-align:center;
+  text-decoration:none;
+  white-space:nowrap;
+  box-shadow:none;
+  backdrop-filter:none;
+  -webkit-backdrop-filter:none;
+}
+#checkout .btn::before {
+  display:none;
+}
+#checkout .btn:hover {
+  transform:none;
+}
+#checkout .btn:disabled {
+  background-color:#CACACA;
+  border-color:#CACACA;
+  cursor:not-allowed;
+  opacity:.6;
+}
+#checkout .btn-primary {
+  background-color:#14B8A6;
+  color:#FFF;
+  border-color:#14B8A6;
+}
+#checkout .btn-wide {
+  width:100%;
+}
+#checkout .btn-square {
+  border-radius:11px;
+}
+#checkout .phone-group {
+  display:flex;
+}
+#checkout .phone-group .code {
+  font-size:19px;
+  padding:19px 35px;
+  background-color:#FFF;
+  color:#636363;
+  border:1px solid #B5B5B5;
+  border-radius:11px 0 0 11px;
+  width:155px;
+  border-right:none;
+  appearance:none;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  background-image:url('data:image/svg+xml;utf8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9L12 15L18 9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/></svg>');
+  background-repeat:no-repeat;
+  background-position:right 10px center;
+  background-size:20px;
+  cursor:pointer;
+}
+#checkout .phone-group .code:focus {
+  border-color:#313131;
+  outline:none;
+}
+#checkout .phone-group .phone {
+  border-radius:0 11px 11px 0;
+}
+
+#checkout {
+  background:#FFF;
+  padding-top:32px;
+  padding-bottom:32px;
+}
+#checkout .content {
+  max-width:670px;
+}
+#checkout .content h1 {
+  font-size:23px;
+  color:#1A1E25;
+  font-family:"Georgia Bold",Arial,sans-serif;
+  font-weight:normal;
+}
+@media (max-width:768px) {
+  #checkout .content h1 {
+    text-align:center;
+    font-size:22px;
+  }
+}
+
+/* Logo */
+#checkout .logo {
+  margin:0 auto 24px;
+}
+
+/* Included items */
+#checkout .included-items {
+  padding:0;
+  margin:42px 0;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  list-style:none;
+}
+@media (max-width:768px) {
+  #checkout .included-items {
+    flex-direction:column;
+    gap:8px;
+    align-content:center;
+  }
+}
+#checkout .included-items .item {
+  display:flex;
+  align-items:center;
+  gap:5px;
+}
+#checkout .included-items .item i {
+  background:url('../images/tick.svg?v=2') center/contain no-repeat;
+  width:16px;
+  height:16px;
+  display:inline-block;
+}
+#checkout .included-items .item span {
+  color:#636363;
+  font-size:14px;
+}
+
+/* Payment summary */
+#checkout .payment-summary {
+  padding:30px;
+  border:1px solid #E9E9E9;
+  background-color:#F0F8FF;
+}
+@media (max-width:768px) {
+  #checkout .payment-summary {
+    padding:10px;
+  }
+}
+#checkout .payment-summary .item {
+  margin-bottom:20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+}
+#checkout .payment-summary .item .name {
+  font-weight:700;
+  font-size:24px;
+}
+@media (max-width:768px) {
+  #checkout .payment-summary .item .name {
+    font-size:16px;
+  }
+}
+#checkout .payment-summary .item .name.with-present {
+  display:flex;
+}
+#checkout .payment-summary .item .name.with-present img {
+  padding-right:10px;
+}
+#checkout .payment-summary .item .description {
+  font-weight:400;
+  font-size:14px;
+  color:#636363;
+}
+@media (max-width:768px) {
+  #checkout .payment-summary .item .description {
+    font-size:10px;
+  }
+}
+#checkout .payment-summary .item .price .price-old {
+  font-weight:400;
+  font-size:17px;
+  color:#4B5159;
+  text-decoration-line:line-through;
+  white-space:nowrap;
+}
+@media (max-width:768px) {
+  #checkout .payment-summary .item .price .price-old {
+    font-size:16px;
+  }
+}
+#checkout .payment-summary .item .price .price-new {
+  font-weight:700;
+  font-size:23px;
+  margin-left:5px;
+  white-space:nowrap;
+}
+@media (max-width:768px) {
+  .hero-note{font-size:11px}
+  .lp-cta-note{font-size:11px}
+  .footer-cta-note{font-size:11px}
+  .cta-note{font-size:11px}
+  #checkout .payment-summary .item .price .price-new {
+    font-size:16px;
+  }
+}
+#checkout .payment-summary .item.todays-charge {
+  margin-bottom:0;
+  padding-top:20px;
+  color:#4FA93C;
+  border-top:1px solid #E9E9E9;
+}
+#checkout .payment-summary .item.amazon-package {
+  color:#E9B839;
+}
+
+/* Form */
+#checkout .purchase-form {
+  margin:40px 0 0;
+}
+#checkout .purchase-form .client-info {
+  margin-bottom:40px;
+}
+#checkout .purchase-form .client-info .title {
+  margin-bottom:20px;
+  font-size:14px;
+  color:#636363;
+}
+#checkout .purchase-form .client-info .email {
+  margin-bottom:20px;
+}
+#checkout .purchase-form .payment-info {
+  margin-bottom:50px;
+}
+#checkout .purchase-form .payment-info .title {
+  font-size:14px;
+  color:#636363;
+}
+/* ─── Apple Pay / Google Pay button (Stripe PaymentRequestButton) ─── */
+#checkout .purchase-form .payment-info .express-pay {
+  margin:20px 0 0;
+}
+#checkout .purchase-form .payment-info .express-pay #payment-request-button {
+  min-height:56px;
+}
+/* The Stripe button is rendered inside an iframe — Stripe handles styling.
+   We just give it a subtle wrapper for visual consistency. */
+
+/* ─── Divider "or pay with card" ─── */
+#checkout .purchase-form .payment-info .payment-divider {
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin:24px 0 20px;
+  color:#9A9A9A;
+  font-size:13px;
+  line-height:16px;
+  text-transform:lowercase;
+  letter-spacing:.02em;
+}
+#checkout .purchase-form .payment-info .payment-divider::before,
+#checkout .purchase-form .payment-info .payment-divider::after {
+  content:"";
+  flex:1;
+  height:1px;
+  background:#E5E5E5;
+}
+#checkout .purchase-form .payment-info .payment-divider span {
+  flex:0 0 auto;
+}
+
+/* ─── "Pay with card" row — payment system logos ─── */
+#checkout .purchase-form .payment-info .pay-card {
+  margin:0 0 20px;
+  display:flex;
+  justify-content:flex-end;
+  align-items:center;
+}
+
+/* ─── Field wrapper ─── */
+#checkout .purchase-form .payment-info .card-info .field {
+  position:relative;
+  margin-bottom:20px;
+}
+#checkout .purchase-form .payment-info .card-info .field:last-child,
+#checkout .purchase-form .payment-info .card-info .card-group .field {
+  margin-bottom:0;
+}
+
+/* ─── StripeElement styled IDENTICALLY to a native input ───
+   <div> with an <iframe> inside (Stripe injects the iframe for PCI compliance).
+   IMPORTANT: do NOT touch the iframe with CSS — Stripe positions it absolutely
+   inside its own __PrivateStripeElement wrapper, and any override breaks input.
+   Style only the outer .StripeElement div. */
+#checkout .purchase-form .payment-info .card-info .StripeElement {
+  background-color:#FFF;
+  border:1px solid #B5B5B5;
+  border-radius:11px;
+  padding:19px 35px;
+  width:100%;
+  box-sizing:border-box;
+  transition:border-color .15s ease, box-shadow .15s ease;
+  /* Native input height: padding(19+19) + line-height(28) + border(2) = 68px.
+     Stripe iframe is rendered with lineHeight 28 from JS elementStyles → matches naturally. */
+}
+#checkout .purchase-form .payment-info .card-info .StripeElement.focused {
+  border-color:#313131;
+}
+#checkout .purchase-form .payment-info .card-info .StripeElement.invalid {
+  border-color:#E25950;
+}
+#checkout .purchase-form .payment-info .card-info .field.border-red .StripeElement,
+#checkout .purchase-form .payment-info .card-info .field.border-red input {
+  border-color:#E25950;
+}
+
+/* ─── Card number — extra right padding for the lock icon ─── */
+#checkout .purchase-form .payment-info .card-info .card-number .StripeElement {
+  padding-right:55px;
+}
+#checkout .purchase-form .payment-info .card-info .card-number .lock {
+  background:url('../images/lock.svg') center/contain no-repeat;
+  width:16px;
+  height:20px;
+  position:absolute;
+  right:20px;
+  top:50%;
+  transform:translateY(-50%);
+  pointer-events:none;
+}
+
+/* ─── Expiration + CVC row ─── */
+#checkout .purchase-form .payment-info .card-info .card-group {
+  display:flex;
+  gap:20px;
+}
+#checkout .purchase-form .payment-info .card-info .card-group .expired,
+#checkout .purchase-form .payment-info .card-info .card-group .cvc {
+  flex:1;
+}
+
+@media (max-width:480px) {
+  #checkout .purchase-form .payment-info .card-info .StripeElement {
+    padding:16px 18px;
+  }
+  #checkout .purchase-form .payment-info .card-info .card-number .StripeElement {
+    padding-right:44px;
+  }
+  #checkout .purchase-form .payment-info .card-info .card-number .lock {
+    right:14px;
+  }
+  #checkout .purchase-form .payment-info .card-info .card-group {
+    gap:12px;
+  }
+}
+#checkout .purchase-form .payment-info .safe {
+  display:flex;
+  gap:8px;
+  align-items:center;
+  color:#636363;
+  font-size:14px;
+  line-height:24px;
+  margin-top:40px;
+}
+
+/* Agree */
+#checkout .agree-note {
+  font-size:12px;
+  line-height:24px;
+  color:#F80000;
+  margin:12px 0;
+}
+#checkout .agree {
+  display:flex;
+  align-items:flex-start;
+  gap:15px;
+  font-size:12px;
+  line-height:24px;
+  color:#636363;
+  margin-top:0;
+  margin-bottom:50px;
+  cursor:pointer;
+}
+#checkout .agree #agree_chk {
+  flex:0 0 20px;
+  width:20px;
+  height:20px;
+  margin:2px 0 0;
+  padding:0;
+  cursor:pointer;
+  accent-color:#14B8A6;
+}
+#checkout .agree a {
+  color:#14B8A6;
+}
+
+/* Badges & address */
+#checkout .badges {
+  margin:50px 0;
+  text-align:center;
+}
+#checkout .address {
+  font-size:12px;
+  line-height:18px;
+  color:#636363;
+  text-align:center;
+}
