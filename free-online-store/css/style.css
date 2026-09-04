@@ -2902,7 +2902,14 @@ body { font-family:var(--font-body); color:var(--midnight); background:#111114; 
   .ps-cat-icon svg:first-child{width:18px;height:18px}
 }
 /* Generic glass card used in pillar visuals */
-.glass-panel{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-top-color:rgba(255,255,255,.12);border-radius:24px;padding:32px;overflow:hidden;backdrop-filter:blur(24px) saturate(1.4);-webkit-backdrop-filter:blur(24px) saturate(1.4);box-shadow:0 32px 80px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.08);animation:dash-levitate 8s ease-in-out infinite;position:relative;width:100%}
+/* Покачивание панели (dash-levitate: восемь секунд, ход в 8 px по
+   вертикали) снято. На этой странице внутри панели лежат три шага с
+   описаниями, и текст, который всё время едет, читать тяжело: глаз
+   постоянно догоняет строку.
+
+   Кейфреймы оставлены — их используют другие страницы. Здесь убрано
+   только назначение анимации. */
+.glass-panel{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-top-color:rgba(255,255,255,.12);border-radius:24px;padding:32px;overflow:hidden;backdrop-filter:blur(24px) saturate(1.4);-webkit-backdrop-filter:blur(24px) saturate(1.4);box-shadow:0 32px 80px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.08);position:relative;width:100%}
 .glass-panel::before{content:'';position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.12) 40%,rgba(255,255,255,.18) 50%,rgba(255,255,255,.12) 60%,transparent);pointer-events:none}
 .glass-panel::after{content:'';position:absolute;top:-50%;left:-60%;width:45%;height:200%;background:linear-gradient(105deg,transparent 38%,rgba(255,255,255,.03) 48%,rgba(255,255,255,.05) 50%,rgba(255,255,255,.03) 52%,transparent 62%);pointer-events:none;animation:card-shine 9s ease-in-out infinite}
 /* Pill check row */
